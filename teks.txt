@@ -2,3 +2,4 @@ Judul dari teksnya
 - list pertama
 - list kedua
 - tambah list baru
+- menghapus list sebelumnya
